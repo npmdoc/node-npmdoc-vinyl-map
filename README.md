@@ -1,9 +1,14 @@
-# api documentation for  [vinyl-map (v1.0.2)](https://github.com/affirmix/vinyl-map)  [![npm package](https://img.shields.io/npm/v/npmdoc-vinyl-map.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-vinyl-map) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-vinyl-map.svg)](https://travis-ci.org/npmdoc/node-npmdoc-vinyl-map)
+# npmdoc-vinyl-map
+
+#### api documentation for  [vinyl-map (v1.0.2)](https://github.com/affirmix/vinyl-map)  [![npm package](https://img.shields.io/npm/v/npmdoc-vinyl-map.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-vinyl-map) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-vinyl-map.svg)](https://travis-ci.org/npmdoc/node-npmdoc-vinyl-map)
+
 #### Map vinyl files' contents as strings, so you can easily use existing code without needing yet another gulp plugin!
 
-[![NPM](https://nodei.co/npm/vinyl-map.png?downloads=true)](https://www.npmjs.com/package/vinyl-map)
+[![NPM](https://nodei.co/npm/vinyl-map.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/vinyl-map)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-vinyl-map/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-vinyl-map_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-vinyl-map/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-vinyl-map/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-vinyl-map/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-vinyl-map/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-vinyl-map/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-vinyl-map/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Hugh Kennedy",
-        "email": "hughskennedy@gmail.com",
         "url": "http://hughsk.io/"
     },
     "bugs": {
@@ -27,7 +31,6 @@
     "contributors": [
         {
             "name": "Andrew Odri",
-            "email": "andrew@affirmix.com",
             "url": "https://affirmix.com/"
         }
     ],
@@ -63,13 +66,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "affirmix",
-            "email": "andrew@affirmix.com"
+            "name": "affirmix"
         }
     ],
     "name": "vinyl-map",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/affirmix/vinyl-map.git"
@@ -80,16 +81,6 @@
     "version": "1.0.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module vinyl-map](#apidoc.module.vinyl-map)
-
-
-
-# <a name="apidoc.module.vinyl-map"></a>[module vinyl-map](#apidoc.module.vinyl-map)
 
 
 
